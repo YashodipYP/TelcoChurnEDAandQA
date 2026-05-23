@@ -1,0 +1,3 @@
+💻 Tech Stack
+Language: Python 3
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
